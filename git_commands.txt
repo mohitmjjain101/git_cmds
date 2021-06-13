@@ -45,3 +45,21 @@ it fetch the remote branch from Github.
 
 it will rebase the changes given in main branch
 
+// git rebase --continue
+
+it is use while rebasing our code with feature and main branch
+
+// git rebase --skip
+
+it is used when you are doing rebase and getting conlict. After resolving conflict when u add that 
+file the on git status on changes are showing in green then do "git rebase --skip"
+
+// git rebase --abort
+it is used when you want to abort(Stop) rebase
+
+// git clean -fx <file_name>
+// remove untracked  file from git status
+
+// git restore <file-name>
+it will restore the changes of file to origin format
+
