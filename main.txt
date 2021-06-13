@@ -1,6 +1,11 @@
 This is First Main Comment
 This is Second Main Comment
+<<<<<<< HEAD
 This is Third Main Comment
 This is Forth Main Comment
 This is Fifth Main Comment
 This is F1 Comment
+=======
+This is F1 Comment
+This is F2 Comment
+>>>>>>> 769b712 (Feature_4)
