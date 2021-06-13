@@ -1,0 +1,27 @@
+// git init
+
+initalize the git repo
+
+// git clone <url>
+
+it will clone repo from git
+
+// git status
+
+it will show the untracked (new file) and tracked (existing file) changes of repo
+
+// git add <file_name>
+
+it will add given file
+
+// git add --all
+it will add all tracked and untracked file
+
+// git commit -m "<msg>"
+
+it will commit the added changes
+
+// git push <remote_name> <branch_name>
+
+it will push the given branch and remote name means origin
+
