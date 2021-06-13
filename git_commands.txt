@@ -41,5 +41,7 @@ it fetch the remote branch from Github.
 
 // After fetching the branch we need to fetch the head of given branch
 
+// git pull origin main --rebase
 
+it will rebase the changes given in main branch
 
