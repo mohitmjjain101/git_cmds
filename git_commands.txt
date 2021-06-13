@@ -63,3 +63,6 @@ it is used when you want to abort(Stop) rebase
 // git restore <file-name>
 it will restore the changes of file to origin format
 
+// git commit --amend -m "<msg>"
+it will rename the last commited message
+
